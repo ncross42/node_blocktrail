@@ -1,0 +1,7 @@
+{
+  "name"       : "My App Name",
+  "configPath" : "./conf/",
+  "port"       : 3000,
+  "access_log" : "./logs/access.log",
+  "error_log"  : "./logs/error.log"
+}
